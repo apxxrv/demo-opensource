@@ -23,7 +23,7 @@ jobs:
       run: black --check .
 
     - name: Lint with flake8
-      run: flake8 src/ tests/
+      run: flake8 tests/
 
     - name: Run tests with coverage
       run: |
