@@ -1,4 +1,5 @@
 blank_issues_enabled: false
+use_legacy_issue_template: true
 contact_links:
   - name: 💬 Ask a Question
     url: https://github.com/apxxrv/demo-opensource/discussions
