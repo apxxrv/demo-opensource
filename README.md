@@ -1,4 +1,4 @@
-# ASU CIC Demo Open Source Project
+# ASU CIC Demo OpenSource Project
 
 ![Build](https://github.com/apxxrv/demo-opensource/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
